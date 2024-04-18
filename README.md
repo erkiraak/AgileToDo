@@ -21,17 +21,13 @@ Simple CS ticket application that demonstrates the use of ASP.NET Core, Entity F
 
 The app has seeded users in different roles:
 1. User - Can create tickets
-   Login name: user@agiletodo.com
-   Password: Test@123
-3. CS - can create and mark tickets as complete
-   Login name: cs@agiletodo.com
-   Password: Test@123
+  (user@agiletodo.com / Test@123)
+2. CS - can create and mark tickets as complete
+  (cs@agiletodo.com / Test@123)
 3. Manager - can create, edit and delete tickets
-   Login name: manager@agiletodo.com
-   Password: Test@123
+  (manager@agiletodo.com / Test@123)
 4. Admin - can create, edit and delete tickets
-   Login name: admin@agiletodo.com
-   Password: Test@123
+   (admin@agiletodo.com / Test@123)
 
 ## Authors
 
